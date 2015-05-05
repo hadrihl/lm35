@@ -10,6 +10,7 @@ App Files
 
 Library
 -------
+* Nodejs
 * mraa (https://github.com/intel-iot-devkit/mraa)
 
 Author
